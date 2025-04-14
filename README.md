@@ -7,7 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/roooouuuyy" target="blank"><img src="https://img.shields.io/twitter/follow/roooouuuyy?logo=twitter&style=for-the-badge" alt="roooouuuyy" /></a> </p>
 
-- 🔭 I’m currently studing at [Southwestern University](https://swu.phinma.edu.ph/)
+- 💳 **Registered Medical Technologist!**
+  
+- 🔭 I studied at [Southwestern University](https://swu.phinma.edu.ph/)
 
 - 🌱 I’m currently learning **Machine Learning, Data structures and Algorithms**
 
