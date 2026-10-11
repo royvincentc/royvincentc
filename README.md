@@ -1,61 +1,54 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-<h1 align="center">Hi 👋, I'm Roy Vincent Codiñera</h1>
-<h3 align="center">A passionate self-taught Developer and Medical Student from the Philippines</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+# Roy Vincent Codiñera
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=royvincentc&label=Profile%20views&color=0e75b6&style=flat" alt="royvincentc" /> </p>
+**Registered Medical Technologist · QC Microbiologist · Software for laboratory workflows**
 
-<p align="left"> <a href="https://twitter.com/roooouuuyy" target="blank"><img src="https://img.shields.io/twitter/follow/roooouuuyy?logo=twitter&style=for-the-badge" alt="roooouuuyy" /></a> </p>
+I'm based in Cebu, Philippines, and work as a QC microbiologist at International Pharmaceuticals Inc. My background in medical technology and laboratory operations informs the software I build: sample intake tools, spreadsheet integrations, and report preparation workflows.
 
-- 💳 **Registered Medical Technologist!**
-  
-- 🔭 I studied at [Southwestern University](https://swu.phinma.edu.ph/)
+I use AI-assisted development alongside hands-on workflow design, debugging, and verification. My focus is practical software that helps laboratory staff capture, find, and prepare information.
 
-- 🌱 I’m currently learning **Machine Learning, Data structures and Algorithms**
+## Featured projects
 
-- 👯 I’m looking to collaborate on Game Development
+### [UL Sample Logger](https://github.com/royvincentc/unilever-sample-logger)
 
-- 👨‍💻 All of my projects are available at https://github.com/royvincentc
+A mobile-first sample logging application with a local submission queue, Google Sheets integration, and shared sample history.
 
-- 📝 I regularly think about the Coagulation Cascade
+- Sample intake for environmental, water, air, and raw-material workflows.
+- IndexedDB queuing and submission-status tracking.
+- Vercel API functions for sheet reads, submissions, and updates.
+- Shared Kanban boards and Excalidraw drawings with separate workspace configuration.
 
-- 💬 Ask me about **Medicine**
+**Tools used:** React, TypeScript, Vite, Tailwind CSS, Vercel, Google APIs, Firebase, IndexedDB, Supabase.
 
-- 📫 How to reach me **vincecodinera@gmail.com**
+[Read the documentation](https://github.com/royvincentc/unilever-sample-logger#readme)
 
-- 📄 Know about my experiences [<null>](<null>)
+### [IPI QC Microbiology Workspace](https://github.com/royvincentc/ipi-qc-workspace)
 
-- ⚡ Fun fact **The Earth is round**
+A laboratory operations workspace for sample intake, lookup, and traceable DOCX report preparation.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/roooouuuyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="roooouuuyy" height="30" width="40" /></a>
-<a href="https://www.facebook.com/rouyummy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/rouyummy/" height="30" width="40" /></a>
-</p>
+- Spreadsheet-backed sample records and references.
+- Source identity tracking and reconciliation of uncertain writes.
+- Report templates, revisions, and rendered previews.
+- A de-identified demo using invented sample records.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
-<a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> 
-<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
-<a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+Report review, signatures, and sample release remain outside the application.
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/royvincentc"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/royvincentc" /></a><a href="https://ko-fi.com/Ko-fi.com/roycodinera"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-fi.com/roycodinera" /></a></p><br><br>
+**Tools used:** React, TypeScript, Express, PostgreSQL, Python, Google Sheets and Drive APIs.
 
-<br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=royvincentc&show_icons=true&locale=en&layout=compact" alt="royvincentc" /></p>
+[Read the documentation](https://github.com/royvincentc/ipi-qc-workspace#readme)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=royvincentc&show_icons=true&locale=en" alt="royvincentc" /></p>
+## What I bring
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=royvincentc&" alt="royvincentc" /></p>
+- **Laboratory context:** medical technology training, QC microbiology experience, and familiarity with laboratory documentation.
+- **Workflow design:** translating sample categories, spreadsheet layouts, and reporting steps into application behavior.
+- **Integration work:** web interfaces, APIs, structured data, and existing operational tools.
+- **A practical learning approach:** building around specific problems and checking how the resulting workflow behaves.
+
+## Areas of interest
+
+Laboratory and healthcare application support, workflow automation, implementation, and internal tools.
+
+I'm interested in connecting with teams working on these problems and discussing focused projects where laboratory knowledge and software development meet.
+
+## Contact
+
+[Email](mailto:vincecodinera@gmail.com) · [GitHub repositories](https://github.com/royvincentc?tab=repositories)
