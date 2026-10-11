@@ -1,12 +1,24 @@
-# Roy Vincent Codiñera
+<p align="center">
+  <img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" alt="Animated developer banner" width="100%" />
+</p>
 
-**Registered Medical Technologist · QC Microbiologist · Software for laboratory workflows**
+<h1 align="center">Hi 👋, I'm Roy Vincent Codiñera</h1>
+<h3 align="center">Registered Medical Technologist · QC Microbiologist · Laboratory Workflow Developer</h3>
+
+<p align="center">
+  <a href="mailto:vincecodinera@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_me-0e75b6?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Roy" /></a>
+  <a href="https://github.com/royvincentc?tab=repositories"><img src="https://img.shields.io/badge/GitHub-My_projects-24292e?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="View my repositories" /></a>
+</p>
+
+<img align="right" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="Animated coding illustration" width="320" />
 
 I'm based in Cebu, Philippines, and work as a QC microbiologist at International Pharmaceuticals Inc. My background in medical technology and laboratory operations informs the software I build: sample intake tools, spreadsheet integrations, and report preparation workflows.
 
 I use AI-assisted development alongside hands-on workflow design, debugging, and verification. My focus is practical software that helps laboratory staff capture, find, and prepare information.
 
-## Featured projects
+<br clear="both" />
+
+## 🧪 Featured projects
 
 ### [UL Sample Logger](https://github.com/royvincentc/unilever-sample-logger)
 
@@ -36,19 +48,50 @@ Report review, signatures, and sample release remain outside the application.
 
 [Read the documentation](https://github.com/royvincentc/ipi-qc-workspace#readme)
 
-## What I bring
+## 🔬 What I bring
 
 - **Laboratory context:** medical technology training, QC microbiology experience, and familiarity with laboratory documentation.
 - **Workflow design:** translating sample categories, spreadsheet layouts, and reporting steps into application behavior.
 - **Integration work:** web interfaces, APIs, structured data, and existing operational tools.
 - **A practical learning approach:** building around specific problems and checking how the resulting workflow behaves.
 
-## Areas of interest
+## 🌱 Areas of interest
 
 Laboratory and healthcare application support, workflow automation, implementation, and internal tools.
 
 I'm interested in connecting with teams working on these problems and discussing focused projects where laboratory knowledge and software development meet.
 
-## Contact
+## 🛠️ Tools used in my projects
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" title="React" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="Vite" title="Vite" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" title="Express" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" alt="Firebase" title="Firebase" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" title="Supabase" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" width="40" height="40" />
+</p>
+
+These reflect my project stack, rather than a claim of equal proficiency in every tool.
+
+## 📊 GitHub activity
+
+<p>
+  <a href="https://github.com/royvincentc?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=royvincentc&amp;show_icons=true&amp;locale=en&amp;layout=compact" alt="Most used languages in Roy's GitHub repositories" /></a>
+</p>
+<p>
+  <a href="https://github.com/royvincentc"><img src="https://github-readme-stats.vercel.app/api?username=royvincentc&amp;show_icons=true&amp;locale=en" alt="Roy's GitHub activity statistics" /></a>
+</p>
+<p>
+  <a href="https://github.com/royvincentc"><img src="https://streak-stats.demolab.com/?user=royvincentc" alt="Roy's GitHub contribution streak" /></a>
+</p>
+
+## 📫 Contact
 
 [Email](mailto:vincecodinera@gmail.com) · [GitHub repositories](https://github.com/royvincentc?tab=repositories)
