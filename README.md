@@ -6,11 +6,11 @@
 <h3 align="center">Registered Medical Technologist · QC Microbiologist · Laboratory Workflow Developer</h3>
 
 <p align="center">
-  <a href="mailto:vincecodinera@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_me-0e75b6?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Roy" /></a>
-  <a href="https://github.com/royvincentc?tab=repositories"><img src="https://img.shields.io/badge/GitHub-My_projects-24292e?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="View my repositories" /></a>
+  <a href="mailto:vincecodinera@gmail.com">📫 Email me</a> ·
+  <a href="https://github.com/royvincentc?tab=repositories">💻 Browse my projects</a>
 </p>
 
-<img align="right" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="Animated coding illustration" width="320" />
+<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Animated coding illustration" width="320" />
 
 I'm based in Cebu, Philippines, and work as a QC microbiologist at International Pharmaceuticals Inc. My background in medical technology and laboratory operations informs the software I build: sample intake tools, spreadsheet integrations, and report preparation workflows.
 
