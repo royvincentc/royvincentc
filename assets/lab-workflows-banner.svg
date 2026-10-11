@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Roy Vincent Codiñera — laboratory workflows and software</title>
+  <desc id="desc">Registered Medical Technologist and QC Microbiologist. An animated sample, data, and report workflow connects laboratory work with software and automation.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101b25"/><stop offset="1" stop-color="#102c32"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#39d7ba" stop-opacity=".12"/><stop offset="1" stop-color="#39d7ba" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#98d4c9" stroke-opacity=".045"/></pattern>
+    <style>
+      text { font-family: 'Segoe UI', Arial, sans-serif; }
+      .flow { stroke-dasharray: 4 10; animation: flow 5s linear infinite; }
+      .pulse { animation: pulse 5s ease-in-out infinite; }
+      @keyframes flow { to { stroke-dashoffset: -70; } }
+      @keyframes pulse { 0%,100% { opacity: .3; } 50% { opacity: .75; } }
+      @media (prefers-reduced-motion: reduce) { .flow,.pulse { animation: none; } }
+    </style>
+  </defs>
+  <rect width="1200" height="340" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="340" rx="20" fill="url(#grid)"/>
+  <ellipse cx="1000" cy="140" rx="280" ry="220" fill="url(#glow)"/>
+  <path d="M58 61H90" stroke="#62e7c3" stroke-width="3" stroke-linecap="round"/>
+  <text x="106" y="67" fill="#87b5b0" font-size="13" letter-spacing="3">LABORATORY + SOFTWARE</text>
+  <text x="58" y="132" fill="#f0f7f5" font-size="45" font-weight="700" letter-spacing="-1">Roy Vincent Codiñera</text>
+  <text x="60" y="179" fill="#a6e8d6" font-size="23">Registered Medical Technologist</text>
+  <text x="60" y="214" fill="#abc1c5" font-size="19">QC Microbiologist · Cebu, Philippines</text>
+  <g font-size="14" fill="#c9dcd9">
+    <rect x="58" y="256" width="162" height="34" rx="17" fill="#18383d" stroke="#2c5357"/>
+    <text x="139" y="278" text-anchor="middle">Laboratory workflows</text>
+    <rect x="231" y="256" width="110" height="34" rx="17" fill="#18383d" stroke="#2c5357"/>
+    <text x="286" y="278" text-anchor="middle">Software</text>
+    <rect x="352" y="256" width="126" height="34" rx="17" fill="#18383d" stroke="#2c5357"/>
+    <text x="415" y="278" text-anchor="middle">Automation</text>
+  </g>
+  <path d="M719 55V285" stroke="#477579" stroke-opacity=".3"/>
+  <g fill="none" stroke="#39656b" stroke-width="1.5">
+    <circle cx="928" cy="171" r="109"/>
+    <circle cx="928" cy="171" r="132" stroke-dasharray="2 10" class="pulse"/>
+    <path d="M816 130L928 212L1040 130"/>
+  </g>
+  <path d="M816 130L928 212L1040 130" fill="none" stroke="#64ddbc" stroke-width="2" class="flow"/>
+  <g>
+    <rect x="778" y="92" width="76" height="76" rx="21" fill="#152e37" stroke="#487775"/>
+    <path d="M807 110H825M809 110V130L802 146Q800 152 807 152H825Q832 152 830 146L823 130V110" fill="none" stroke="#7eeacb" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M805 141H827" stroke="#7eeacb" stroke-width="2"/>
+    <circle cx="815" cy="145" r="2" fill="#7eeacb"/>
+    <text x="816" y="190" text-anchor="middle" fill="#b9d8d2" font-size="14">SAMPLE</text>
+    <rect x="890" y="174" width="76" height="76" rx="21" fill="#152e37" stroke="#487775"/>
+    <path d="M914 200L902 212L914 224M942 200L954 212L942 224M932 195L924 229" fill="none" stroke="#7eeacb" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="928" y="274" text-anchor="middle" fill="#b9d8d2" font-size="14">DATA</text>
+    <rect x="1002" y="92" width="76" height="76" rx="21" fill="#152e37" stroke="#487775"/>
+    <path d="M1025 111H1047L1055 119V151H1025ZM1047 111V120H1055M1033 130H1047M1033 138H1047M1033 146H1042" fill="none" stroke="#7eeacb" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="1040" y="190" text-anchor="middle" fill="#b9d8d2" font-size="14">REPORT</text>
+  </g>
+  <circle cx="1111" cy="62" r="4" fill="#81edce" class="pulse"/>
+  <circle cx="760" cy="264" r="3" fill="#81edce" class="pulse"/>
+</svg>
