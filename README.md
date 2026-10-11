@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" alt="Animated developer banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/royvincentc/royvincentc/main/assets/lab-workflows-banner.svg" alt="Roy Vincent Codiñera — Registered Medical Technologist, QC Microbiologist, and laboratory workflow developer" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Roy Vincent Codiñera</h1>
